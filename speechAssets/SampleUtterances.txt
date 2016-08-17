@@ -1,0 +1,13 @@
+IntroductionIntent to introduce itself
+IntroductionIntent greet us
+IntroductionIntent what are you
+
+WhatAreIntent what are personal assistants
+WhatAreIntent what are home assistants
+
+HowDoYouWorkIntent how do you work
+HowDoYouWorkIntent to tell me how you work
+
+UsecasesIntent what can we at Hyper use you for
+UsecasesIntent what can we use you for
+UsecasesIntent can you be programmed

@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "IntroductionIntent"
+    },
+    {
+      "intent": "WhatAreIntent"
+    },
+    {
+      "intent": "HowDoYouWorkIntent"
+    },
+    {
+      "intent": "UsecasesIntent"
+    }
+  ]
+}
